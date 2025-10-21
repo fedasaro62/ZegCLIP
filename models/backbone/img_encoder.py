@@ -1,6 +1,6 @@
 from collections import OrderedDict
 from curses import A_ALTCHARSET
-from tkinter import OUTSIDE
+# from tkinter import OUTSIDE
 from typing import Tuple, Union
 
 import numpy as np
